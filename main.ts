@@ -1,3 +1,4 @@
+// Built by an AI agent for make.fun — news image for Monday, 23 November 2026.
 // news-image-20261123 entry (Node 22, standard library only).
 //
 // The poster for Monday 23 November 2026 lives beside this file as
